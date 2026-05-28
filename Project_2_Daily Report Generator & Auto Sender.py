@@ -81,3 +81,6 @@ mail.sendmail(from_addr, to_email, msg.as_string())
 mail.quit()
 
 print("Report generated and email sent successfully!")
+
+
+#Dummy commit
